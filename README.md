@@ -1,1 +1,1 @@
-# library-management-netbeans-sql
+# Library Management App using Netbeans & SQL
